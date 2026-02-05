@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi there, I'm FahadSaputra!
 
-<!--
-**FahadSaputra/FahadSaputra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Selamat datang di profil GitHub saya!  
+Saya seorang **Developer Pemula** sekaligus **Desainer Grafis** yang belakangan ini sedang fokus mempelajari menjadi **Front-End Developer** & **Roblox Developer**🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Tentang Saya
+- ♟️ Saya sedang beberapa proyek pribadi
+- 💻 Belajar HTML, CSS, JavaScript, LUA
+- 💬 Sangat Suka Berdiskusi Dan Sharing Ilmu
+
+---
+
+## 🛠 Teknologi yang Saya Pelajari
+- HTML
+- CSS
+- JavaScript
+- LUA
+- Git & GitHub
+
+---
+
+## 📫 Hubungi Saya
+- Email: fahadsaputra@gmail.com
+- Discord: FahadSaputra#1234
+- Whatsapp: 089668769557
+
+---
+
+Terima kasih sudah mengunjungi profil saya ✨
